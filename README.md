@@ -1,4 +1,10 @@
-## Hi there 👋
+# Mattia Viglino 🚀  
+
+## Welcome to my GitHub profile! 👋  
+
+🎓 I'm currently attending a **Master's degree in AI and Data Analytics** at **Politecnico di Torino**.  
+💡 Always curious to learn new skills and technologies.  
+🔍 Passionate about **Machine Learning, Deep Learning, and Data Science**.  
 
 <!--
 # 💻 Tech Stack:
